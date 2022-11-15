@@ -8,6 +8,7 @@
 function isHappy(n: number): boolean {
     if (n === 0) return false;
 
+    // hardcoding
     while (n != 1 && n != 4) {
 
         let sumOfNumber: number = 0
