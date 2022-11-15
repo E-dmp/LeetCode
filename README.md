@@ -1,4 +1,4 @@
-# LeetCode解法
+### LeetCode
  
 LeetCode の記録です.
 
