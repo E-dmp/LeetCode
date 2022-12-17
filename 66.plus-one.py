@@ -26,7 +26,6 @@ class Solution:
         """
         Listが9だけで構成されていた場合
         [9,8,9]のように9以外の要素がある場合
-        
         """
         if counter == len(digits):
              return [1] + counter * [0]
